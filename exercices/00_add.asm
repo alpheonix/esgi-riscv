@@ -9,7 +9,7 @@
 
 # Questions: C'est quoi un registre? (mettre un x dans la bonne réponse
 #
-# - [ ] Une mémoire dans le processeur de 32 bits
+# - [X] Une mémoire dans le processeur de 32 bits
 # - [ ] Une variable dans la mémoire
 
 mon_code: # <- Label permet d'associer un nom a une adresse.
